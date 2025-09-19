@@ -9,6 +9,9 @@ body {
   font-family: Arial, sans-serif;
   color: #333;
   cursor: url("Képek/hello-kitty\ cursor.png"), auto;
+  background: url(Képek/nyitóoldal\ háttér\ ajándék\ a\ kézbe.jpg) no-repeat center center/cover;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 /* Fejléc */
@@ -108,4 +111,44 @@ nav a:hover {
   border: none;
   font-size: 16px;
   box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+}
+
+
+.category-select {
+  text-align: center;
+  margin-top: 150px;
+}
+
+.category-select button {
+  margin: 0 16px;
+  padding: 14px 32px;
+  font-size: 18px;
+  border: none;
+  border-radius: 24px;
+  background: palevioletred;
+  color: #fff;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.category-select button:hover {
+  background: #8d465d;
+}
+
+.subcat-list {
+  margin: 40px auto;
+  max-width: 500px;
+  display: grid;
+  gap: 16px;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.subcat-item {
+  background: #fff4fa;
+  border-radius: 12px;
+  padding: 18px;
+  font-size: 17px;
+  text-align: center;
+  font-weight: 500;
+  box-shadow: 0 1px 6px rgba(200, 50, 70, 0.07);
 }
