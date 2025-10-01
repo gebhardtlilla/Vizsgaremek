@@ -10,7 +10,7 @@ namespace Project_VizsgaRemek
     class Felhasznalok
     {
         private string filePath;
-        public List<User> Users { get; private set; } = new List<User>();
+        public List<Felhasznalo> Felhaszhnalok { get; private set; } = new List<Felhasznalo>();
 
         public Felhasznalok(string filePath)
         {
@@ -26,13 +26,13 @@ namespace Project_VizsgaRemek
                 while (!sr.EndOfStream)
                 {
                     string[] mezok = sr.ReadLine().Split(';');
-                    User u = new User(
+                    Felhasznalo u = new Felhasznalo(
                         int.Parse(mezok[0]),
                         mezok[1],
                         mezok[2],
                         mezok[3]
                     );
-                    Users.Add(u);
+                    Felhaszhnalok.Add(u);
                 }
             }
         }
@@ -45,27 +45,27 @@ namespace Project_VizsgaRemek
                 w.WriteLine("INSERT INTO Felhasznalo(user_id, name, email, password)");
                 w.WriteLine("VALUES");
 
-                for (int i = 0; i < Users.Count - 1; i++)
+                for (int i = 0; i < Felhaszhnalok.Count - 1; i++)
                 {
-                    var u = Users[i];
+                    var u = Felhaszhnalok[i];
                     w.WriteLine("({0},'{1}','{2}','{3}'),", u.UserId, u.Name, u.Email, u.Password);
                 }
 
                 // Utolsó elem ponttal lezárva
-                var last = Users[Users.Count - 1];
+                var last = Felhaszhnalok[Felhaszhnalok.Count - 1];
                 w.WriteLine("({0},'{1}','{2}','{3}');", last.UserId, last.Name, last.Email, last.Password);
             }
         }
 
         // Felhasználó osztály a UserData belsejében
-        public class User
+        public class Felhasznalo
         {
             public int UserId { get; }
             public string Name { get; }
             public string Email { get; }
             public string Password { get; }
 
-            public User(int userId, string name, string email, string password)
+            public Felhasznalo(int userId, string name, string email, string password)
             {
                 UserId = userId;
                 Name = name;

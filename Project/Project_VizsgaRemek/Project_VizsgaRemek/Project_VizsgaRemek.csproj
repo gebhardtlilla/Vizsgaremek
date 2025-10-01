@@ -44,8 +44,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Ajandekok.cs" />
-    <Compile Include="ajandek_alkalom.cs" />
-    <Compile Include="Ajandek_celcsoport.cs" />
+    <Compile Include="AjandekAlkalmak.cs" />
+    <Compile Include="AjandekCelcsoportok.cs" />
     <Compile Include="Alkalmak.cs" />
     <Compile Include="Celcsoportok.cs" />
     <Compile Include="Felhasznalok.cs" />
