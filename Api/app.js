@@ -1,7 +1,11 @@
 const express = require("express");
+const cors = require("cors");
 const app = express();
 
 // Middleware a JSON kérésekhez
+
+
+app.use(cors()); // <<< ezzel engedélyezed minden origin-nek
 app.use(express.json());
 
 // Route-ok importálása
