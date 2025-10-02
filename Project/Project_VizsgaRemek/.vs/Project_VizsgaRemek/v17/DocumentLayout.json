@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Suli\\Vizsgaremek\\SQL\\Project_VizsgaRemek\\",
+  "WorkspaceRootPath": "H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|c:\\suli\\vizsgaremek\\sql\\project_vizsgaremek\\project_vizsgaremek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|h:\\vizsgaremek\\project\\project_vizsgaremek\\project_vizsgaremek\\ajandek_celcsoport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|solutionrelative:project_vizsgaremek\\ajandek_celcsoport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|h:\\vizsgaremek\\project\\project_vizsgaremek\\project_vizsgaremek\\ajandek_alkalom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|solutionrelative:project_vizsgaremek\\ajandek_alkalom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|h:\\vizsgaremek\\project\\project_vizsgaremek\\project_vizsgaremek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|solutionrelative:project_vizsgaremek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Ajandek_celcsoport.cs",
+              "DocumentMoniker": "H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Ajandek_celcsoport.cs",
+              "RelativeDocumentMoniker": "Project_VizsgaRemek\\Ajandek_celcsoport.cs",
+              "ToolTip": "H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Ajandek_celcsoport.cs",
+              "RelativeToolTip": "Project_VizsgaRemek\\Ajandek_celcsoport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T06:40:02.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ajandek_alkalom.cs",
+              "DocumentMoniker": "H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\ajandek_alkalom.cs",
+              "RelativeDocumentMoniker": "Project_VizsgaRemek\\ajandek_alkalom.cs",
+              "ToolTip": "H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\ajandek_alkalom.cs",
+              "RelativeToolTip": "Project_VizsgaRemek\\ajandek_alkalom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T06:40:01.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Suli\\Vizsgaremek\\SQL\\Project_VizsgaRemek\\Project_VizsgaRemek\\Program.cs",
+              "DocumentMoniker": "H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Program.cs",
               "RelativeDocumentMoniker": "Project_VizsgaRemek\\Program.cs",
-              "ToolTip": "C:\\Suli\\Vizsgaremek\\SQL\\Project_VizsgaRemek\\Project_VizsgaRemek\\Program.cs*",
-              "RelativeToolTip": "Project_VizsgaRemek\\Program.cs*",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAowHgAAAAFAAAAAAAAAA==",
+              "ToolTip": "H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Program.cs",
+              "RelativeToolTip": "Project_VizsgaRemek\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T21:35:56.71Z",
               "EditorCaption": ""
