@@ -7,16 +7,17 @@ using System.Threading.Tasks;
 
 namespace Project_VizsgaRemek
 {
-    class Celcsoportok
+    class AjandekCelcsoportok
     {
         private string filePath;
-        public List<Celcsoport> Lista { get; private set; } = new List<Celcsoport>();
+        public List<AjandekCelcsoport> Lista { get; private set; } = new List<AjandekCelcsoport>();
 
-        public Celcsoportok(string filePath)
+        public AjandekCelcsoportok(string filePath)
         {
             this.filePath = filePath;
         }
 
+        // Beolvasás fájlból
         public void Beolvas()
         {
             using (StreamReader sr = new StreamReader(filePath))
@@ -25,42 +26,44 @@ namespace Project_VizsgaRemek
                 while (!sr.EndOfStream)
                 {
                     string[] mezok = sr.ReadLine().Split(';');
-                    Celcsoport c = new Celcsoport(
+                    AjandekCelcsoport a = new AjandekCelcsoport(
                         int.Parse(mezok[0]),
-                        mezok[1]
+                        int.Parse(mezok[1])
                     );
-                    Lista.Add(c);
+                    Lista.Add(a);
                 }
             }
         }
 
+        // SQL exportálás fájlba
         public void ExportSQL(string sqlFilePath)
         {
             using (StreamWriter w = new StreamWriter(sqlFilePath, append: true))
             {
-                w.WriteLine("INSERT INTO Celcsoport(id, nev)");
+                w.WriteLine("INSERT INTO Ajandek_Celcsoport(ajandek_id, celcsoport_id)");
                 w.WriteLine("VALUES");
 
                 for (int i = 0; i < Lista.Count - 1; i++)
                 {
-                    var c = Lista[i];
-                    w.WriteLine($"({c.Id}, '{c.Nev.Replace("'", "''")}'),");
+                    var a = Lista[i];
+                    w.WriteLine("({0}, {1}),", a.AjandekId, a.CelcsoportId);
                 }
 
                 var last = Lista[Lista.Count - 1];
-                w.WriteLine($"({last.Id}, '{last.Nev.Replace("'", "''")}');");
+                w.WriteLine("({0}, {1});", last.AjandekId, last.CelcsoportId);
             }
         }
 
-        public class Celcsoport
+        // Belső osztály az egyes kapcsolatokhoz
+        public class AjandekCelcsoport
         {
-            public int Id { get; }
-            public string Nev { get; }
+            public int AjandekId { get; }
+            public int CelcsoportId { get; }
 
-            public Celcsoport(int id, string nev)
+            public AjandekCelcsoport(int ajandekId, int celcsoportId)
             {
-                Id = id;
-                Nev = nev;
+                AjandekId = ajandekId;
+                CelcsoportId = celcsoportId;
             }
         }
     }
