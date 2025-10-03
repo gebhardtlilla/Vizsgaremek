@@ -1,9 +1,19 @@
 const express = require("express");
 const cors = require("cors");
+<<<<<<< HEAD
 const path = require("path");
 const app = express();
 
 // Middleware a JSON kérésekhez
+=======
+const app = express();
+
+// Middleware a JSON kérésekhez
+
+
+app.use(cors()); // <<< ezzel engedélyezed minden origin-nek
+app.use(express.json());
+>>>>>>> 5db2e7d389331c65f4ac05db490923fe5f87b4fb
 
 
 app.use(cors()); // <<< ezzel engedélyezed minden origin-nek
