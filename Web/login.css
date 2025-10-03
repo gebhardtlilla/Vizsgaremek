@@ -45,3 +45,24 @@
 .login-form button:hover {
   background: #8d465d;
 }
+#subcategories {
+  width: 100%;  /* teljes szélesség */
+  display: flex;
+  justify-content: center; /* vízszintesen középre */
+  align-items: center;     /* függőlegesen középre */
+  padding: 40px 0;         /* legyen körülötte hely */
+  box-sizing: border-box;
+}
+
+.subcat-list {
+  background: #fff4fa;
+  border-radius: 16px;
+  box-shadow: 0 2px 12px rgba(200, 50, 70, 0.11);
+  padding: 40px 60px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 18px 44px;
+  max-width: 540px;
+  width: 100%;
+}
+
