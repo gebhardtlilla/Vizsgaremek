@@ -1,61 +1,46 @@
 {
   "Version": 1,
-<<<<<<< HEAD
   "WorkspaceRootPath": "H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|h:\\vizsgaremek\\project\\project_vizsgaremek\\project_vizsgaremek\\ajandek_celcsoport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|solutionrelative:project_vizsgaremek\\ajandek_celcsoport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\project_vizsgaremek\\ajandekalkalmak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|solutionrelative:project_vizsgaremek\\ajandekalkalmak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|h:\\vizsgaremek\\project\\project_vizsgaremek\\project_vizsgaremek\\ajandek_alkalom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|solutionrelative:project_vizsgaremek\\ajandek_alkalom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|h:\\vizsgaremek\\project\\project_vizsgaremek\\project_vizsgaremek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-=======
-  "WorkspaceRootPath": "C:\\Suli\\Vizsgaremek\\Project\\Project_VizsgaRemek\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|C:\\Suli\\Vizsgaremek\\Project\\Project_VizsgaRemek\\project_vizsgaremek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
->>>>>>> 28f5899dff58a7b44caffdda59c49f506f49cd27
-      "RelativeMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|solutionrelative:project_vizsgaremek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|c:\\suli\\vizsgaremek\\project\\project_vizsgaremek\\project_vizsgaremek\\stilusok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|solutionrelative:project_vizsgaremek\\stilusok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|C:\\Suli\\Vizsgaremek\\Project\\Project_VizsgaRemek\\project_vizsgaremek\\kuponok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|solutionrelative:project_vizsgaremek\\kuponok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|C:\\Suli\\Vizsgaremek\\Project\\Project_VizsgaRemek\\project_vizsgaremek\\kategoriak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\project_vizsgaremek\\kategoriak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|solutionrelative:project_vizsgaremek\\kategoriak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|C:\\Suli\\Vizsgaremek\\Project\\Project_VizsgaRemek\\project_vizsgaremek\\gyujtemeny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\project_vizsgaremek\\gyujtemeny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|solutionrelative:project_vizsgaremek\\gyujtemeny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|C:\\Suli\\Vizsgaremek\\Project\\Project_VizsgaRemek\\project_vizsgaremek\\felhasznalok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\project_vizsgaremek\\felhasznalok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|solutionrelative:project_vizsgaremek\\felhasznalok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|C:\\Suli\\Vizsgaremek\\Project\\Project_VizsgaRemek\\project_vizsgaremek\\celcsoportok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|solutionrelative:project_vizsgaremek\\celcsoportok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|C:\\Suli\\Vizsgaremek\\Project\\Project_VizsgaRemek\\project_vizsgaremek\\alkalmak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\project_vizsgaremek\\alkalmak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|solutionrelative:project_vizsgaremek\\alkalmak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|C:\\Suli\\Vizsgaremek\\Project\\Project_VizsgaRemek\\project_vizsgaremek\\ajandekcelcsoportok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|solutionrelative:project_vizsgaremek\\ajandekcelcsoportok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\project_vizsgaremek\\celcsoportok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|solutionrelative:project_vizsgaremek\\celcsoportok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|C:\\Suli\\Vizsgaremek\\Project\\Project_VizsgaRemek\\project_vizsgaremek\\ajandekalkalmak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|solutionrelative:project_vizsgaremek\\ajandekalkalmak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|h:\\vizsgaremek\\project\\project_vizsgaremek\\project_vizsgaremek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|solutionrelative:project_vizsgaremek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\project_vizsgaremek\\stilusok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|solutionrelative:project_vizsgaremek\\stilusok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\project_vizsgaremek\\kuponok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|solutionrelative:project_vizsgaremek\\kuponok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\project_vizsgaremek\\ajandekcelcsoportok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BBC34DD-0720-4346-BE21-936F46AAC14A}|Project_VizsgaRemek\\Project_VizsgaRemek.csproj|solutionrelative:project_vizsgaremek\\ajandekcelcsoportok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -65,75 +50,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Celcsoportok.cs",
-              "DocumentMoniker": "C:\\Suli\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Celcsoportok.cs",
-              "RelativeDocumentMoniker": "Project_VizsgaRemek\\Celcsoportok.cs",
-              "ToolTip": "C:\\Suli\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Celcsoportok.cs",
-              "RelativeToolTip": "Project_VizsgaRemek\\Celcsoportok.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADEAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T16:41:31.474Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Alkalmak.cs",
-              "DocumentMoniker": "C:\\Suli\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Alkalmak.cs",
-              "RelativeDocumentMoniker": "Project_VizsgaRemek\\Alkalmak.cs",
-              "ToolTip": "C:\\Suli\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Alkalmak.cs",
-              "RelativeToolTip": "Project_VizsgaRemek\\Alkalmak.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADEAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T16:41:06.905Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Felhasznalok.cs",
-              "DocumentMoniker": "C:\\Suli\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Felhasznalok.cs",
-              "RelativeDocumentMoniker": "Project_VizsgaRemek\\Felhasznalok.cs",
-              "ToolTip": "C:\\Suli\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Felhasznalok.cs",
-              "RelativeToolTip": "Project_VizsgaRemek\\Felhasznalok.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADcAAABrAAAAAAAAAA==",
+              "Title": "Celcsoportok.cs",
+              "DocumentMoniker": "H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Celcsoportok.cs",
+              "RelativeDocumentMoniker": "Project_VizsgaRemek\\Celcsoportok.cs",
+              "ToolTip": "H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Celcsoportok.cs",
+              "RelativeToolTip": "Project_VizsgaRemek\\Celcsoportok.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADEAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T16:43:00.361Z"
+              "WhenOpened": "2025-10-01T16:41:31.474Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Gyujtemeny.cs",
-              "DocumentMoniker": "C:\\Suli\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Gyujtemeny.cs",
-              "RelativeDocumentMoniker": "Project_VizsgaRemek\\Gyujtemeny.cs",
-              "ToolTip": "C:\\Suli\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Gyujtemeny.cs",
-              "RelativeToolTip": "Project_VizsgaRemek\\Gyujtemeny.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAqwGsAAAALAAAAAAAAAA==",
+              "Title": "Alkalmak.cs",
+              "DocumentMoniker": "H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Alkalmak.cs",
+              "RelativeDocumentMoniker": "Project_VizsgaRemek\\Alkalmak.cs",
+              "ToolTip": "H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Alkalmak.cs",
+              "RelativeToolTip": "Project_VizsgaRemek\\Alkalmak.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADEAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T16:06:29.501Z"
+              "WhenOpened": "2025-10-01T16:41:06.905Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Kategoriak.cs",
-              "DocumentMoniker": "C:\\Suli\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Kategoriak.cs",
-              "RelativeDocumentMoniker": "Project_VizsgaRemek\\Kategoriak.cs",
-              "ToolTip": "C:\\Suli\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Kategoriak.cs",
-              "RelativeToolTip": "Project_VizsgaRemek\\Kategoriak.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAcwEgAAAAAAAAAAAAAAA==",
+              "Title": "Felhasznalok.cs",
+              "DocumentMoniker": "H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Felhasznalok.cs",
+              "RelativeDocumentMoniker": "Project_VizsgaRemek\\Felhasznalok.cs",
+              "ToolTip": "H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Felhasznalok.cs",
+              "RelativeToolTip": "Project_VizsgaRemek\\Felhasznalok.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADcAAABrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T16:26:15.652Z"
+              "WhenOpened": "2025-10-01T16:43:00.361Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Gyujtemeny.cs",
+              "DocumentMoniker": "H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Gyujtemeny.cs",
+              "RelativeDocumentMoniker": "Project_VizsgaRemek\\Gyujtemeny.cs",
+              "ToolTip": "H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Gyujtemeny.cs",
+              "RelativeToolTip": "Project_VizsgaRemek\\Gyujtemeny.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:06:29.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kategoriak.cs",
+              "DocumentMoniker": "H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Kategoriak.cs",
+              "RelativeDocumentMoniker": "Project_VizsgaRemek\\Kategoriak.cs",
+              "ToolTip": "H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Kategoriak.cs",
+              "RelativeToolTip": "Project_VizsgaRemek\\Kategoriak.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwC8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T16:26:15.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Kuponok.cs",
-              "DocumentMoniker": "C:\\Suli\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Kuponok.cs",
+              "DocumentMoniker": "H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Kuponok.cs",
               "RelativeDocumentMoniker": "Project_VizsgaRemek\\Kuponok.cs",
-              "ToolTip": "C:\\Suli\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Kuponok.cs",
+              "ToolTip": "H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Kuponok.cs",
               "RelativeToolTip": "Project_VizsgaRemek\\Kuponok.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAADgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -141,83 +131,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Stilusok.cs",
-              "DocumentMoniker": "C:\\Suli\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Stilusok.cs",
+              "DocumentMoniker": "H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Stilusok.cs",
               "RelativeDocumentMoniker": "Project_VizsgaRemek\\Stilusok.cs",
-              "ToolTip": "C:\\Suli\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Stilusok.cs",
+              "ToolTip": "H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Stilusok.cs",
               "RelativeToolTip": "Project_VizsgaRemek\\Stilusok.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T16:41:54.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AjandekAlkalmak.cs",
-              "DocumentMoniker": "C:\\Suli\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\AjandekAlkalmak.cs",
-              "RelativeDocumentMoniker": "Project_VizsgaRemek\\AjandekAlkalmak.cs",
-              "ToolTip": "C:\\Suli\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\AjandekAlkalmak.cs",
-              "RelativeToolTip": "Project_VizsgaRemek\\AjandekAlkalmak.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADMAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T16:42:05.57Z"
+              "WhenOpened": "2025-10-01T16:41:54.799Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Ajandek_celcsoport.cs",
-              "DocumentMoniker": "H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Ajandek_celcsoport.cs",
-              "RelativeDocumentMoniker": "Project_VizsgaRemek\\Ajandek_celcsoport.cs",
-              "ToolTip": "H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Ajandek_celcsoport.cs",
-              "RelativeToolTip": "Project_VizsgaRemek\\Ajandek_celcsoport.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "AjandekAlkalmak.cs",
+              "DocumentMoniker": "H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\AjandekAlkalmak.cs",
+              "RelativeDocumentMoniker": "Project_VizsgaRemek\\AjandekAlkalmak.cs",
+              "ToolTip": "H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\AjandekAlkalmak.cs",
+              "RelativeToolTip": "Project_VizsgaRemek\\AjandekAlkalmak.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADMAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T06:40:02.94Z",
+              "WhenOpened": "2025-10-01T16:42:05.57Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ajandek_alkalom.cs",
-              "DocumentMoniker": "H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\ajandek_alkalom.cs",
-              "RelativeDocumentMoniker": "Project_VizsgaRemek\\ajandek_alkalom.cs",
-              "ToolTip": "H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\ajandek_alkalom.cs",
-              "RelativeToolTip": "Project_VizsgaRemek\\ajandek_alkalom.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T06:40:01.615Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-<<<<<<< HEAD
               "DocumentMoniker": "H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Program.cs",
               "RelativeDocumentMoniker": "Project_VizsgaRemek\\Program.cs",
               "ToolTip": "H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Program.cs",
               "RelativeToolTip": "Project_VizsgaRemek\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-=======
-              "DocumentMoniker": "C:\\Suli\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Program.cs",
-              "RelativeDocumentMoniker": "Project_VizsgaRemek\\Program.cs",
-              "ToolTip": "C:\\Suli\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\Program.cs",
-              "RelativeToolTip": "Project_VizsgaRemek\\Program.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAiwDEAAABAAAAAAAAAAA==",
->>>>>>> 28f5899dff58a7b44caffdda59c49f506f49cd27
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwDEAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T16:06:18.383Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "AjandekCelcsoportok.cs",
-              "DocumentMoniker": "C:\\Suli\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\AjandekCelcsoportok.cs",
+              "DocumentMoniker": "H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\AjandekCelcsoportok.cs",
               "RelativeDocumentMoniker": "Project_VizsgaRemek\\AjandekCelcsoportok.cs",
-              "ToolTip": "C:\\Suli\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\AjandekCelcsoportok.cs",
+              "ToolTip": "H:\\Vizsgaremek\\Project\\Project_VizsgaRemek\\Project_VizsgaRemek\\AjandekCelcsoportok.cs",
               "RelativeToolTip": "Project_VizsgaRemek\\AjandekCelcsoportok.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAAADMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
