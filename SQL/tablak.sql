@@ -1,5 +1,5 @@
 CREATE TABLE Felhasznalo (
-    user_id INT PRIMARY KEY,
+    user_id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(100),
     email VARCHAR(100) UNIQUE,
     password VARCHAR(100)

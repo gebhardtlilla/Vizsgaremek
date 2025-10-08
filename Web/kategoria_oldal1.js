@@ -1,3 +1,10 @@
+const elmenySubcats = [
+  "vicces", "hasznos", "luxus", "kézműves", "romantikus", "kreatív", "technológiai", "egészséges életmód"
+];
+const targySubcats = [
+  "gyerekek", "felnőttek", "idősek", "párok", "barátok", "szülők", "kollégák", "tanárok"
+];
+
 function renderSubcategories(cats) {
   const div = document.getElementById("subcategories");
   div.innerHTML = `
@@ -7,35 +14,18 @@ function renderSubcategories(cats) {
   `;
 }
 
-document.getElementById("alkalomBtn").addEventListener("click", () => {
-  fetch("/alkalmak")
-    .then(response => response.json())
-    .then(alkalmak => {
-      renderSubcategories(alkalmak);
-    })
-    .catch(error => {
-      console.error('Hiba az alkalmak lekérésekor:', error);
-    });
+document.getElementById("elmenyBtn").addEventListener("click", () => {
+  renderSubcategories(elmenySubcats);
+});
+document.getElementById("targyBtn").addEventListener("click", () => {
+  renderSubcategories(targySubcats);
 });
 
-document.getElementById("stilusBtn").addEventListener("click", () => {
-  fetch("/stilusok")
-    .then(response => response.json())
-    .then(stilusok => {
-      renderSubcategories(stilusok);
-    })
-    .catch(error => {
-      console.error('Hiba a stílusok lekérésekor:', error);
-    });
-});
-
-document.getElementById("celcsoportBtn").addEventListener("click", () => {
-  fetch("/celcsoportok")
-    .then(response => response.json())
-    .then(celcsoportok => {
-      renderSubcategories(celcsoportok);
-    })
-    .catch(error => {
-      console.error('Hiba a célcsoportok lekérésekor:', error);
-    });
+window.addEventListener('DOMContentLoaded', () => {
+  const username = localStorage.getItem('username');
+  const welcomeDiv = document.getElementById('welcomeMessage');
+  
+  if (username && welcomeDiv) {
+    welcomeDiv.textContent = `Üdvözöllek, ${username}! Köszönjük, hogy itt vagy! 🎉`;
+  }
 });
