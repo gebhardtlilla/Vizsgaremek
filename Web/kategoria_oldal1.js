@@ -10,32 +10,20 @@ function renderSubcategories(cats) {
 document.getElementById("alkalomBtn").addEventListener("click", () => {
   fetch("/alkalmak")
     .then(response => response.json())
-    .then(alkalmak => {
-      renderSubcategories(alkalmak);
-    })
-    .catch(error => {
-      console.error('Hiba az alkalmak lekérésekor:', error);
-    });
+    .then(renderSubcategories)
+    .catch(error => console.error('Hiba az alkalmak lekérésekor:', error));
 });
 
 document.getElementById("stilusBtn").addEventListener("click", () => {
   fetch("/stilusok")
     .then(response => response.json())
-    .then(stilusok => {
-      renderSubcategories(stilusok);
-    })
-    .catch(error => {
-      console.error('Hiba a stílusok lekérésekor:', error);
-    });
+    .then(renderSubcategories)
+    .catch(error => console.error('Hiba a stílusok lekérésekor:', error));
 });
 
 document.getElementById("celcsoportBtn").addEventListener("click", () => {
   fetch("/celcsoportok")
     .then(response => response.json())
-    .then(celcsoportok => {
-      renderSubcategories(celcsoportok);
-    })
-    .catch(error => {
-      console.error('Hiba a célcsoportok lekérésekor:', error);
-    });
+    .then(renderSubcategories)
+    .catch(error => console.error('Hiba a célcsoportok lekérésekor:', error));
 });

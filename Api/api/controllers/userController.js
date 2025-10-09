@@ -1,5 +1,21 @@
 //a felhasználókkal kapcsolatos logika
 
+// Bejelentkezés
+exports.loginUser = (req, res) => {
+  const { username, password } = req.body;
+  db.query(
+    "SELECT * FROM Felhasznalo WHERE name = ? AND password = ?",
+    [username, password],
+    (err, results) => {
+      if (err) return res.status(500).json({ error: err });
+      if (results.length === 0) {
+        return res.status(401).json({ message: "Hibás felhasználónév vagy jelszó!" });
+      }
+      // Sikeres bejelentkezés, visszaadjuk a felhasználónevet
+      res.json({ username: results[0].name });
+    }
+  );
+};
 const db = require("../../config/db");
 
 // Összes felhasználó lekérése
