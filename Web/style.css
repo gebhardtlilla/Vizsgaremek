@@ -114,17 +114,39 @@ nav a:hover {
 }
 
 
+.category-select {
+  text-align: center;
+  margin-top: 150px;
+  cursor: url("Képek/hello-kitty\ cursor.png"), auto;
+}
+
+.category-select button {
+  margin: 0 16px;
+  padding: 14px 32px;
+  font-size: 18px;
+  border: none;
+  border-radius: 24px;
+  background: palevioletred;
+  color: #fff;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.category-select button:hover {
+  background: #8d465d;
+}
 
 .subcat-list {
   margin: 40px auto;
   max-width: 500px;
+  display: grid;
   gap: 16px;
   grid-template-columns: repeat(2, 1fr);
-  margin-top: 15px;
-  display: grid;
-  justify-content: center; /* középre igazítás */
 }
 
+.subcategories{
+    cursor: url("Képek/hello-kitty\ cursor.png"), auto;
+}
 
 .subcat-item {
   background: #fff4fa;
@@ -133,7 +155,7 @@ nav a:hover {
   font-size: 17px;
   text-align: center;
   font-weight: 500;
-  box-shadow: 0 1px 6px rgba(200, 50, 70, 0.07);;
+  box-shadow: 0 1px 6px rgba(200, 50, 70, 0.07);
 }
 
 nav a.back-btn {
@@ -165,16 +187,11 @@ nav a.back-btn:hover {
   cursor: pointer;
 }
 
-.filter-panel {
-  margin-top: 120px;
-  text-align: right;
-  margin-right: 70px;
-}
-
-.filter-title {
-  color: palevioletred;
-  font-size: 22px;
+.message-box {
+  margin-top: 7px;
+  color: red;
   font-weight: bold;
+<<<<<<< HEAD
   margin-bottom: 18px;
 }
 
@@ -334,3 +351,6 @@ nav a.back-btn:hover {
 
 
 
+=======
+}
+>>>>>>> 0dba4a8b5e4078a2161cba5a3c36670e5a2b21ae
