@@ -30,7 +30,6 @@
   font-size: 16px;
 }
 
-
 .login-form button {
   padding: 12px 24px;
   border: none;
@@ -45,3 +44,4 @@
 .login-form button:hover {
   background-color: rgb(141, 70, 93);
 }
+

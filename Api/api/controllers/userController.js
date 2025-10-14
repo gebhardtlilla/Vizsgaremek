@@ -1,4 +1,4 @@
-// userController.js – felhasználókkal kapcsolatos logika
+//a felhasználókkal kapcsolatos logika
 
 // Bejelentkezés
 exports.loginUser = (req, res) => {
@@ -36,7 +36,7 @@ exports.getUserById = (req, res) => {
   });
 };
 
-// Új felhasználó hozzáadása (regisztráció)
+// Új felhasználó hozzáadása
 exports.createUser = (req, res) => {
   const { name, email, password } = req.body;
 
@@ -58,26 +58,3 @@ exports.createUser = (req, res) => {
     );
   });
 };
-
-// Bejelentkezés
-exports.loginUser = (req, res) => {
-  const { username, password } = req.body;
-
-  if (!username || !password) {
-    return res.status(400).json({ message: "Felhasználónév és jelszó megadása kötelező." });
-  }
-
-  db.query(
-    "SELECT * FROM Felhasznalo WHERE name = ? AND password = ?",
-    [username, password],
-    (err, results) => {
-      if (err) return res.status(500).json({ error: err });
-      if (results.length === 0) {
-        return res.status(401).json({ message: "Hibás felhasználónév vagy jelszó." });
-      }
-
-      res.json({ message: "Sikeres bejelentkezés!", user: results[0] });
-    }
-  );
-};
-
